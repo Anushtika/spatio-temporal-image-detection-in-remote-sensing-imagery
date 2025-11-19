@@ -1,4 +1,4 @@
-## Generative Deep Learning Framework for Spatio-Temporal Change Detection in Remote Sensing Imagery
+# Generative Deep Learning Framework for Spatio-Temporal Change Detection in Remote Sensing Imagery
 
 This repository contains the official implementation of ChangeFormerPlusPlus, a hybrid CNN + Transformer–based generative deep learning model designed for spatio-temporal change detection in high-resolution remote sensing imagery.
 The model automatically identifies building construction, demolition, modification, and other structural changes by analyzing bi-temporal satellite images.
@@ -171,16 +171,16 @@ Good separation between minor and major changes
 
 
 ## Project Structure
-│── data/
-│── src/
-│   ├── model.py
-│   ├── transformer.py
-│   ├── dataset.py
-│   ├── train.py
-│   └── utils.py
-│── saved_models/
-│── README.md
-│── requirements.txt
+│── data/\
+│── src/\
+│   ├── model.py\
+│   ├── transformer.py\
+│   ├── dataset.py\
+│   ├── train.py\
+│   └── utils.py\
+│── saved_models/\
+│── README.md\
+│── requirements.txt\
 
 ## Future Work
 
