@@ -167,9 +167,10 @@ Accurate segmentation of changed regions
 Good separation between minor and major changes
 
 ![Screenshot of results](https://github.com/Anushtika/spatio-temporal-image-detection-in-remote-sensing-imagery/blob/main/ST1.jpg)
-
-
-
+![Screenshot of results](https://github.com/Anushtika/spatio-temporal-image-detection-in-remote-sensing-imagery/blob/main/ST2.jpg) 
+![Screenshot of results](https://github.com/Anushtika/spatio-temporal-image-detection-in-remote-sensing-imagery/blob/main/ST3.jpg)
+![Screenshot of results](https://github.com/Anushtika/spatio-temporal-image-detection-in-remote-sensing-imagery/blob/main/ST4.jpg)
+![Screenshot of results](https://github.com/Anushtika/spatio-temporal-image-detection-in-remote-sensing-imagery/blob/main/ST5.jpg)
 
 
 ## Project Structure
