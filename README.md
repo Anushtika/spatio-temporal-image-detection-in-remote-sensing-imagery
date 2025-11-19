@@ -166,7 +166,7 @@ Accurate segmentation of changed regions
 
 Good separation between minor and major changes
 
-![Screenshot of results](https://drive.google.com/file/d/1EjF8CYIiFFlFNRYNBtH384dDOmGXjYKg/view?usp=drive_link)
+![Screenshot of results](https://github.com/Anushtika/spatio-temporal-image-detection-in-remote-sensing-imagery/blob/main/ST1.jpg)
 
 
 
