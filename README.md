@@ -166,6 +166,8 @@ Accurate segmentation of changed regions
 
 Good separation between minor and major changes
 
+![Screenshot of results](https://drive.google.com/file/d/1EjF8CYIiFFlFNRYNBtH384dDOmGXjYKg/view?usp=drive_link)
+
 
 
 
@@ -180,7 +182,7 @@ Good separation between minor and major changes
 │   └── utils.py\
 │── saved_models/\
 │── README.md\
-│── requirements.txt\
+│── requirements.txt
 
 ## Future Work
 
